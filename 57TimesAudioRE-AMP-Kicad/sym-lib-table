@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lundahl")(type "KiCad")(uri "/Volumes/storage/AnalogDevices/ReampBox/kicadLibs/transformers/libs/lundahl.kicad_sym")(options "")(descr ""))
+  (lib (name "P160KN-0QC15B500K")(type "KiCad")(uri "/Volumes/storage/AnalogDevices/ReampBox/kicadLibs/P160KN-0QC15B500K/P160KN-0QC15B500K.kicad_sym")(options "")(descr ""))
+  (lib (name "NC3FAH1")(type "KiCad")(uri "/Volumes/storage/AnalogDevices/ReampBox/kicadLibs/NC3FAH1/NC3FAH1.kicad_sym")(options "")(descr ""))
+  (lib (name "TL1105SF250Q")(type "KiCad")(uri "/Volumes/storage/AnalogDevices/ReampBox/kicadLibs/TL1105SF250Q/TL1105SF250Q.kicad_sym")(options "")(descr ""))
+  (lib (name "Antmicro")(type "KiCad")(uri "${KIPRJMOD}/AntmicroSimulation.kicad_sym")(options "")(descr ""))
+  (lib (name "Jack_XLR_Neutrik_NC3FD-H_Horizontal")(type "KiCad")(uri "${KIPRJMOD}/NC3FD-H.pretty/Jack_XLR_Neutrik_NC3FD-H_Horizontal.kicad_sym")(options "")(descr ""))
+  (lib (name "NC3FD-H-B")(type "KiCad")(uri "${KIPRJMOD}/NC3FD-H-B/NC3FD-H-B.kicad_sym")(options "")(descr ""))
+)
